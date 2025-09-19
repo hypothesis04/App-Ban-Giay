@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmdsgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmdsgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSGiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Views\\frmDSGiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\CXuLyThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\services\\ctruycapdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:services\\ctruycapdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\TempGioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\TempGioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmdshoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmdshoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|c:\\users\\truong\\desktop\\it\\b\u00E1n gi\u00E0y\\b\u00E1n gi\u00E0y\\views\\frmdshoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmdshoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\CXuLyGioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmdskhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmdskhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Models\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\ThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Models\\ThongKe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyKhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\CXuLyKhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\Giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Models\\Giay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\models\\listgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:models\\listgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\HoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Models\\HoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Models\\GioHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\views\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:views\\frmtrangchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\CXuLyHoaDon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Services\\CXuLyGiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Views\\frmThongKe.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSKhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546EB238-5F4B-45D5-B562-E9AB909B57CA}|B\u00E1n Gi\u00E0y.csproj|solutionrelative:Views\\frmDSKhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDSHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSHoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSHoaDon.cs [Design]",
+              "RelativeToolTip": "Views\\frmDSHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:10:23.692Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDSHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSHoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSHoaDon.cs",
+              "RelativeToolTip": "Views\\frmDSHoaDon.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAWwN0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:08:02.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:34:03.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDSKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSKhachHang.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSKhachHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSKhachHang.cs [Design]",
+              "RelativeToolTip": "Views\\frmDSKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:10:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDSGiay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSGiay.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSGiay.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSGiay.cs [Design]",
+              "RelativeToolTip": "Views\\frmDSGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:09:40.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDSGiay.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSGiay.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSGiay.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSGiay.cs",
+              "RelativeToolTip": "Views\\frmDSGiay.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAwPkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:10:27.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TempGioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\TempGioHang.cs",
+              "RelativeDocumentMoniker": "Services\\TempGioHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\TempGioHang.cs",
+              "RelativeToolTip": "Services\\TempGioHang.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAMwHcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:15:47.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTruyCapDuLieu.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CTruyCapDuLieu.cs",
+              "RelativeDocumentMoniker": "Services\\CTruyCapDuLieu.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CTruyCapDuLieu.cs",
+              "RelativeToolTip": "Services\\CTruyCapDuLieu.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:59:49.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CXuLyThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyThongKe.cs",
+              "RelativeDocumentMoniker": "Services\\CXuLyThongKe.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyThongKe.cs",
+              "RelativeToolTip": "Services\\CXuLyThongKe.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:09:26.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CXuLyGioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGioHang.cs",
+              "RelativeDocumentMoniker": "Services\\CXuLyGioHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGioHang.cs",
+              "RelativeToolTip": "Services\\CXuLyGioHang.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:45:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\ThongKe.cs",
+              "RelativeDocumentMoniker": "Models\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\ThongKe.cs",
+              "RelativeToolTip": "Models\\ThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:07:47.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "Views\\frmThongKe.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "Views\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:33:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CXuLyKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyKhachHang.cs",
+              "RelativeDocumentMoniker": "Services\\CXuLyKhachHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyKhachHang.cs",
+              "RelativeToolTip": "Services\\CXuLyKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:15:51.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListGioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\ListGioHang.cs",
+              "RelativeDocumentMoniker": "Models\\ListGioHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\ListGioHang.cs",
+              "RelativeToolTip": "Models\\ListGioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:11:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Giay.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\Giay.cs",
+              "RelativeDocumentMoniker": "Models\\Giay.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\Giay.cs",
+              "RelativeToolTip": "Models\\Giay.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:45:36.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Models\\HoaDon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:45:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Models\\GioHang.cs",
+              "RelativeToolTip": "Models\\GioHang.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:45:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\Common.cs",
+              "RelativeDocumentMoniker": "Services\\Common.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\Common.cs",
+              "RelativeToolTip": "Services\\Common.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:59:46.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmInHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\frmInHoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmInHoaDon.cs [Design]",
+              "RelativeToolTip": "Views\\frmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:10:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmInHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "Views\\frmInHoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmInHoaDon.cs",
+              "RelativeToolTip": "Views\\frmInHoaDon.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:51:04.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmTrangChinh.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmTrangChinh.cs",
+              "RelativeDocumentMoniker": "Views\\frmTrangChinh.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmTrangChinh.cs",
+              "RelativeToolTip": "Views\\frmTrangChinh.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswCEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:10:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmTrangChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmTrangChinh.cs",
+              "RelativeDocumentMoniker": "Views\\frmTrangChinh.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmTrangChinh.cs [Design]",
+              "RelativeToolTip": "Views\\frmTrangChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:04:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CXuLyHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyHoaDon.cs",
+              "RelativeDocumentMoniker": "Services\\CXuLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyHoaDon.cs",
+              "RelativeToolTip": "Services\\CXuLyHoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:01:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CXuLyGiay.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGiay.cs",
+              "RelativeDocumentMoniker": "Services\\CXuLyGiay.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Services\\CXuLyGiay.cs",
+              "RelativeToolTip": "Services\\CXuLyGiay.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:03:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmThongKe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\frmThongKe.Designer.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmThongKe.Designer.cs",
+              "RelativeToolTip": "Views\\frmThongKe.Designer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAADwvzEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:41:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDSKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSKhachHang.cs",
+              "RelativeDocumentMoniker": "Views\\frmDSKhachHang.cs",
+              "ToolTip": "C:\\Users\\Truong\\Desktop\\IT\\B\u00E1n Gi\u00E0y\\B\u00E1n Gi\u00E0y\\Views\\frmDSKhachHang.cs",
+              "RelativeToolTip": "Views\\frmDSKhachHang.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAowB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:50:03.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

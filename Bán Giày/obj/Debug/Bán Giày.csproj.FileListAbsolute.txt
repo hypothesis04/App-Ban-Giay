@@ -1,0 +1,252 @@
+D:\Code\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+D:\Code\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+D:\Code\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+D:\Code\Bán Giày\bin\Debug\Bán Giày.exe.config
+D:\Code\Bán Giày\bin\Debug\Bán Giày.exe
+D:\Code\Bán Giày\bin\Debug\Bán Giày.pdb
+D:\Code\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+D:\Code\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Bán Giày\bin\Debug\System.Buffers.dll
+D:\Code\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+D:\Code\Bán Giày\bin\Debug\System.Memory.dll
+D:\Code\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\Bán Giày\bin\Debug\System.Text.Json.dll
+D:\Code\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\Bán Giày\bin\Debug\System.ValueTuple.dll
+D:\Code\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\Bán Giày\bin\Debug\System.Buffers.xml
+D:\Code\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+D:\Code\Bán Giày\bin\Debug\System.Memory.xml
+D:\Code\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\Bán Giày\bin\Debug\System.Text.Json.xml
+D:\Code\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\Bán Giày\bin\Debug\System.ValueTuple.xml
+D:\Code\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+D:\Code\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+D:\Code\Bán Giày\obj\Debug\Bán Giày.exe.config
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+D:\Code\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+D:\Code\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+D:\Code\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+D:\Code\Bán Giày\obj\Debug\Bán Giày.exe
+D:\Code\Bán Giày\obj\Debug\Bán Giày.pdb
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+D:\Code\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.pdb
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.pdb
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.pdb
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.dll
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.xml
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.pdb
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe.config
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.exe
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.pdb
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe.config
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.exe
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Bán Giày.pdb
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.dll
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Buffers.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Memory.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Text.Json.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\bin\Debug\System.ValueTuple.xml
+D:\Truong\Documents\Bán Giày\Bán Giày (1)\Bán Giày (1)\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+D:\Đồ Án\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+D:\Đồ Án\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+D:\Đồ Án\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+D:\Đồ Án\Bán Giày\bin\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày\bin\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày\bin\Debug\Bán Giày.pdb
+D:\Đồ Án\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ Án\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Buffers.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Memory.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Text.Json.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án\Bán Giày\bin\Debug\System.ValueTuple.dll
+D:\Đồ Án\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Buffers.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Memory.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Text.Json.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đồ Án\Bán Giày\bin\Debug\System.ValueTuple.xml
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.exe.config
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.exe
+D:\Đồ Án\Bán Giày\obj\Debug\Bán Giày.pdb
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Views\frmTrangChinh.resx
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Views\frmTrangChinh.cs
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Views\frmTrangChinh.Designer.cs
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Bán Giày.exe.config
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Bán Giày.exe
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Bán Giày.pdb
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Buffers.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Memory.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Text.Json.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Buffers.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Memory.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Text.Json.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.csproj.AssemblyReference.cache
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.csproj.SuggestedBindingRedirects.cache
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.exe.config
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSGiay.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSHoaDon.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Views.frmDSKhachHang.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Views.frmInHoaDon.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Views.frmThongKe.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.frmTrangChinh.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán_Giày.Properties.Resources.resources
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.csproj.GenerateResource.cache
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.csproj.CoreCompileInputs.cache
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.csproj.Up2Date
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.exe
+C:\Users\Truong\Desktop\IT\Bán Giày\Bán Giày\obj\Debug\Bán Giày.pdb
